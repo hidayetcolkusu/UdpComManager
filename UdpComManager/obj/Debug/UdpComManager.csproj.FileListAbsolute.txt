@@ -1,0 +1,9 @@
+D:\Hidayet\MyRepos\UdpComManager\UdpComManager\bin\Debug\UdpComManager.dll
+D:\Hidayet\MyRepos\UdpComManager\UdpComManager\bin\Debug\UdpComManager.pdb
+D:\Hidayet\MyRepos\UdpComManager\UdpComManager\bin\Debug\ChecksumManager.dll
+D:\Hidayet\MyRepos\UdpComManager\UdpComManager\bin\Debug\PackageManager.dll
+D:\Hidayet\MyRepos\UdpComManager\UdpComManager\obj\Debug\UdpComManager.csproj.CoreCompileInputs.cache
+D:\Hidayet\MyRepos\UdpComManager\UdpComManager\obj\Debug\UdpComManager.csproj.CopyComplete
+D:\Hidayet\MyRepos\UdpComManager\UdpComManager\obj\Debug\UdpComManager.dll
+D:\Hidayet\MyRepos\UdpComManager\UdpComManager\obj\Debug\UdpComManager.pdb
+D:\Hidayet\MyRepos\UdpComManager\UdpComManager\obj\Debug\UdpComManager.csprojAssemblyReference.cache
